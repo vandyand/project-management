@@ -1,0 +1,4 @@
+.env
+open-interpreter/
+venv/**
+__pycache__/

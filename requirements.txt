@@ -1,0 +1,4 @@
+open-interpreter
+fastapi
+uvicorn
+python-dotenv
